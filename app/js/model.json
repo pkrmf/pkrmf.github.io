@@ -53,11 +53,10 @@
         }]
     },
     "languages": [
-        "swift",
+        "Swift",
         "ObjC",
         "ruby",
         "JavaScript",
-        "Java",
         "Shell"
     ],
     "sort": [
@@ -93,7 +92,7 @@
         "dateBegin": "2017-10-28",
         "dateEnd": "",
         "languages": [
-            "Ruby"
+            "ruby"
         ]
     }, {
         "name": "Umbrella Header Linter",
@@ -106,7 +105,7 @@
         "dateBegin": "2017-10-28",
         "dateEnd": "",
         "languages": [
-            "Ruby"
+            "ruby"
         ]
     }],
     "software": [{
@@ -144,12 +143,12 @@
         "tags": [
             "iOS"
         ],
-        "description": "Web Infrastructure written on top WKWebView that supports a plugin architecture(Interceptors) for customization. It also provides a built-in javascript infrastructure around promises to allow developers to easily create Javascript plugins that interact with native code",
+        "description": "Web Infrastructure written on top WKWebView that supports a plugin architecture(Interceptors) for customization. It also provides a built-in JavaScript infrastructure around promises to allow developers to easily create JavaScript plugins that interact with native code",
         "link": "Private",
         "image": "",
         "languages": [
-            "Objective-C",
-            "Javascript"
+            "Objc",
+            "JavaScript"
         ]
     }, {
         "time": "2016-01-01",
@@ -193,7 +192,8 @@
         "description": "A template to help developers get started building applications/frameworks on iOS. It configures the CI, build settings based on language(Swift/Objc), provides ofuscation scripts and provides a basic sample application that wires to our infrastructure",
         "image": "",
         "languages": [
-            "ruby"
+            "ruby",
+            "Shell"
         ]
     }, {
         "time": "2016-01-01",
@@ -209,8 +209,8 @@
         "languages": [
             "ObjC",
             "Swift",
-            "Bash",
-            "Ruby",
+            "Shell",
+            "ruby",
             "Python"
         ]
     }, {
