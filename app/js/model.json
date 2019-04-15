@@ -189,7 +189,7 @@
             "Project Generation",
             "Testing"
         ],
-        "description": "A template to help developers get started building applications/frameworks on iOS. It configures the CI, build settings based on language(Swift/Objc), provides ofuscation scripts and provides a basic sample application that wires to our infrastructure",
+        "description": "A template to help developers get started building applications/frameworks on iOS. It configures the CI, build settings based on language(Swift/Objc), provides obfuscation scripts and provides a basic sample application that wires to our infrastructure",
         "image": "",
         "languages": [
             "ruby",
