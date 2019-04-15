@@ -67,8 +67,9 @@
     ],
     "technologies": [
         "iOS",
-        "Bash",
-        "CI"
+        "Scripting",
+        "CI & CD",
+        "Dev tools"
     ],
     "opensource": [{
         "name": "flipper",
@@ -109,7 +110,7 @@
         ]
     }],
     "software": [{
-        "time": "2018",
+        "time": "2018-01-01",
         "name": "BloodHound",
         "tags": [
             "iOS",
@@ -124,7 +125,7 @@
             "Swift"
         ]
     }, {
-        "time": "2018",
+        "time": "2018-01-01",
         "name": "App Performance Monitoring",
         "tags": [
             "iOS",
@@ -138,7 +139,7 @@
             "ObjC"
         ]
     }, {
-        "time": "2017",
+        "time": "2017-01-01",
         "name": "Web Infrastructure",
         "tags": [
             "iOS"
@@ -151,14 +152,14 @@
             "Javascript"
         ]
     }, {
-        "time": "2016",
+        "time": "2016-01-01",
         "name": "Network Infrastructure",
         "tags": [
             "iOS",
             "watchOS",
             "tvOS"
         ],
-        "description": "A networking framework for iOS, tvOS and watchOS built on top of NSURLSession. Supports SSLPinning, interception based on plugin and architecture and mocking",
+        "description": "A networking framework for iOS, tvOS and watchOS built on top of NSURLSession that takes care of encryption, serialization, etc... Supports SSLPinning, interception based on plugin and architecture and mocking",
         "link": "Private",
         "image": "",
         "languages": [
@@ -166,7 +167,7 @@
             "ObjC"
         ]
     }, {
-        "time": "2016",
+        "time": "2016-01-01",
         "name": "Factory",
         "tags": [
             "iOS",
@@ -181,7 +182,7 @@
             "Swift"
         ]
     }, {
-        "time": "2017",
+        "time": "2017-01-01",
         "name": "Application/Framework Template",
         "tags": [
             "iOS",
@@ -193,6 +194,53 @@
         "image": "assets/images/wifi.png",
         "languages": [
             "ruby"
+        ]
+    }, {
+        "time": "2016-01-01",
+        "name": "Automation of iOS Infrastructure's CI",
+        "tags": [
+            "iOS",
+            "watchOS",
+            "tvOS"
+        ],
+        "description": "Developers only need to focus on coding. This work included from bootstrapping a project to setting the CI, to generate binaries, publish the artifacts and podspecs to a private repository, etc..",
+        "link": "Private",
+        "image": "",
+        "languages": [
+            "ObjC",
+            "Swift",
+            "Bash",
+            "Ruby",
+            "Python"
+        ]
+    }, {
+        "time": "2017-01-01",
+        "name": "Contextual Menu",
+        "tags": [
+            "iOS",
+            "watchOS",
+            "tvOS"
+        ],
+        "description": "A UI Framework that provided APIs to construct contextual menus which contained app-global and view-specfic menu items",
+        "link": "Private",
+        "image": "",
+        "languages": [
+            "ObjC",
+            "Swift"
+        ]
+    }, {
+        "time": "2019-01-01",
+        "name": "Repository",
+        "tags": [
+            "iOS",
+            "watchOS",
+            "tvOS"
+        ],
+        "description": "Framework for fetching data on demand, it allows the consumer to easily track the states of the data. It does it by implementing the repository pattern in a reactive programming style(RxSwift).",
+        "link": "Private",
+        "image": "",
+        "languages": [
+            "Swift"
         ]
     }]
 }
