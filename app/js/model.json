@@ -72,7 +72,7 @@
     ],
     "opensource": [{
         "name": "flipper",
-        "description": "A desktop debugging platform for mobile developers",
+        "description": "A desktop debugging platform for mobile developers. I contributed on the iOS side, helping on getting it published to Cocoapods and building the shared preferences plugin on iOS. Currently working on the memory leak plugin on iOS",
         "link": "https://github.com/facebook/flipper",
         "stars": 1,
         "dateBegin": "2018-10-01",
