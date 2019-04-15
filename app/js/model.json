@@ -9,7 +9,7 @@
         "link": "https://stackoverflow.com/users/1279233/iosaddicted",
         "font": "fa-stack-overflow"
     }],
-    "title": "Software Engineer",
+    "title": "Software Engineer (iOS)",
     "email": "mterns@gmail.com",
     "location": {
         "city": "San Antonio",
@@ -22,7 +22,7 @@
     "openSourceLimit": 5,
     "openSourceShowMore": 5,
     "appsLimit": 5,
-    "appsShowMore": 5,
+    "appsShowMore": 10,
     "sections": [{
         "id": "about",
         "name": "About"
@@ -37,12 +37,12 @@
         "name": "Apps/Software"
     }],
     "about": {
-        "description": "Software engineer at USAA, I've been working on the following subjects:",
+        "description": "Software engineer at USAA, in my 5 years of experience I've been working on the following subjects:",
         "tags": [{
             "name": "iOS",
             "font": "fa-home"
         }, {
-            "name": "CI&CD",
+            "name": "CI & CD",
             "font": "fa-mobile"
         }, {
             "name": "Developer tools",
