@@ -131,7 +131,7 @@
             "watchOS",
             "tvOS"
         ],
-        "description": "A framework to momitor application loading time and view loading times.",
+        "description": "A framework to monitor application loading time and view loading times.",
         "link": "Private",
         "image": "",
         "languages": [
