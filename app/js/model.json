@@ -116,7 +116,7 @@
             "watchOS",
             "tvOS"
         ],
-        "description": "HTTP Monitoring and mocking tool that captures traffic between its host application and the internet.",
+        "description": "An iOS/tvOS/watchOS library that allows developers and testers to capture network traffic, fake the network and modify network responses. The library can also be used in XCTest/XCUITest.",
         "link": "Private",
         "image": "",
         "languages": [
@@ -131,7 +131,7 @@
             "watchOS",
             "tvOS"
         ],
-        "description": "A framework to monitor application loading time and view loading times.",
+        "description": "A framework to monitor application loading times and view loading times.",
         "link": "Private",
         "image": "",
         "languages": [
@@ -158,7 +158,7 @@
             "watchOS",
             "tvOS"
         ],
-        "description": "A networking framework for iOS, tvOS and watchOS built on top of NSURLSession that takes care of encryption, serialization, etc... Supports SSLPinning, interception based on plugin and architecture and mocking",
+        "description": "A networking framework for iOS, tvOS and watchOS built on top of NSURLSession that takes care of encryption, serialization, etc... Supports SSLPinning, interception based on plugin a architecture and also allows network mocking",
         "link": "Private",
         "image": "",
         "languages": [
