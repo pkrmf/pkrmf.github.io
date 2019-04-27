@@ -236,7 +236,7 @@
             "watchOS",
             "tvOS"
         ],
-        "description": "Framework for fetching data on demand, it allows the consumer to easily track the states of the data. It does it by implementing the repository pattern in a reactive programming style(RxSwift).",
+        "description": "Framework for fetching data on demand, it allows the consumer to easily track the states of the data. It does it by implementing the repository pattern in a reactive programming style(RxSwift). The repository mediates between the data access layer and the domain layer, providing abstractions of common data access facilities such as REST invocations and in-memory/disk caching.",
         "link": "Private",
         "image": "",
         "languages": [
