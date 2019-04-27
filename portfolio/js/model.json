@@ -1,0 +1,246 @@
+{
+    "name": "Marc Terns",
+    "services": [{
+        "name": "Github",
+        "link": "https://github.com/pkrmf",
+        "font": "fa-github"
+    }, {
+        "name": "Stack Overflow",
+        "link": "https://stackoverflow.com/users/1279233/iosaddicted",
+        "font": "fa-stack-overflow"
+    }],
+    "title": "Software Engineer (iOS)",
+    "email": "mterns@gmail.com",
+    "location": {
+        "city": "San Antonio",
+        "country": "TX, US"
+    },
+    "social": [{
+        "link": "https://www.linkedin.com/in/marc-terns-torrens-2a68179b/",
+        "font": "fa-linkedin"
+    }],
+    "openSourceLimit": 5,
+    "openSourceShowMore": 5,
+    "appsLimit": 5,
+    "appsShowMore": 10,
+    "sections": [{
+        "id": "about",
+        "name": "About"
+    }, {
+        "id": "technologies",
+        "name": "Technologies"
+    }, {
+        "id": "opensource",
+        "name": "Open Source"
+    }, {
+        "id": "software",
+        "name": "Apps/Software"
+    }],
+    "about": {
+        "description": "Software engineer at USAA, in my 5 years of experience I've been working on the following subjects:",
+        "tags": [{
+            "name": "iOS",
+            "font": "fa-home"
+        }, {
+            "name": "CI & CD",
+            "font": "fa-mobile"
+        }, {
+            "name": "Developer tools",
+            "font": "fa-link"
+        }, {
+            "name": "REST Services",
+            "font": "fa-plug"
+        }]
+    },
+    "languages": [
+        "Swift",
+        "ObjC",
+        "ruby",
+        "JavaScript",
+        "Shell"
+    ],
+    "sort": [
+        "Most stars",
+        "Most recent",
+        "Oldest"
+    ],
+    "technologies": [
+        "iOS",
+        "Scripting",
+        "CI & CD",
+        "Dev tools"
+    ],
+    "opensource": [{
+        "name": "flipper",
+        "description": "A desktop debugging platform for mobile developers. I contributed on the iOS side, helping on getting it published to Cocoapods and building the shared preferences plugin on iOS. Currently working on the memory leak plugin on iOS",
+        "link": "https://github.com/facebook/flipper",
+        "stars": 1,
+        "dateBegin": "2018-10-01",
+        "dateEnd": "",
+        "languages": [
+            "ObjC",
+            "JavaScript"
+        ]
+    }, {
+        "name": "dependencyswapper",
+        "tags": [
+            "ruby"
+        ],
+        "description": "The best way to swap Cocoapods dependencies between source/development and non-source frameworks",
+        "link": "https://rubygems.org/gems/dependencyswapper",
+        "stars": 0,
+        "dateBegin": "2017-10-28",
+        "dateEnd": "",
+        "languages": [
+            "ruby"
+        ]
+    }, {
+        "name": "Umbrella Header Linter",
+        "tags": [
+            "ruby"
+        ],
+        "description": "The Linter for Umbrella Headers on iOS/watchOS/macOS/tvOS Frameworks.",
+        "link": "https://rubygems.org/gems/umbrellalinter",
+        "stars": 2,
+        "dateBegin": "2017-10-28",
+        "dateEnd": "",
+        "languages": [
+            "ruby"
+        ]
+    }],
+    "software": [{
+        "time": "2018-01-01",
+        "name": "BloodHound",
+        "tags": [
+            "iOS",
+            "watchOS",
+            "tvOS"
+        ],
+        "description": "HTTP Monitoring and mocking tool that captures traffic between its host application and the internet.",
+        "link": "Private",
+        "image": "",
+        "languages": [
+            "ObjC",
+            "Swift"
+        ]
+    }, {
+        "time": "2018-01-01",
+        "name": "App Performance Monitoring",
+        "tags": [
+            "iOS",
+            "watchOS",
+            "tvOS"
+        ],
+        "description": "A framework to monitor application loading time and view loading times.",
+        "link": "Private",
+        "image": "",
+        "languages": [
+            "ObjC"
+        ]
+    }, {
+        "time": "2017-01-01",
+        "name": "Web Infrastructure",
+        "tags": [
+            "iOS"
+        ],
+        "description": "Web Infrastructure written on top WKWebView that supports a plugin architecture(Interceptors) for customization. It also provides a built-in JavaScript infrastructure around promises to allow developers to easily create JavaScript plugins that interact with native code",
+        "link": "Private",
+        "image": "",
+        "languages": [
+            "Objc",
+            "JavaScript"
+        ]
+    }, {
+        "time": "2016-01-01",
+        "name": "Network Infrastructure",
+        "tags": [
+            "iOS",
+            "watchOS",
+            "tvOS"
+        ],
+        "description": "A networking framework for iOS, tvOS and watchOS built on top of NSURLSession that takes care of encryption, serialization, etc... Supports SSLPinning, interception based on plugin and architecture and mocking",
+        "link": "Private",
+        "image": "",
+        "languages": [
+            "Swift",
+            "ObjC"
+        ]
+    }, {
+        "time": "2016-01-01",
+        "name": "Factory",
+        "tags": [
+            "iOS",
+            "watchOS",
+            "tvOS"
+        ],
+        "description": "An IoC Container that supports constructor and property based Dependency Injection. All our Infrastructure is built around Factory",
+        "link": "hPrivate",
+        "image": "",
+        "languages": [
+            "ObjC",
+            "Swift"
+        ]
+    }, {
+        "time": "2017-01-01",
+        "name": "Application/Framework Template",
+        "tags": [
+            "iOS",
+            "CI",
+            "Project Generation",
+            "Testing"
+        ],
+        "description": "A template to help developers get started building applications/frameworks on iOS. It configures the CI, build settings based on language(Swift/Objc), provides obfuscation scripts and provides a basic sample application that wires to our infrastructure",
+        "image": "",
+        "languages": [
+            "ruby",
+            "Shell"
+        ]
+    }, {
+        "time": "2016-01-01",
+        "name": "Automation of iOS Infrastructure's CI",
+        "tags": [
+            "iOS",
+            "watchOS",
+            "tvOS"
+        ],
+        "description": "Developers only need to focus on coding. This work included from bootstrapping a project to setting the CI, to generate binaries, publish the artifacts and podspecs to a private repository, etc..",
+        "link": "Private",
+        "image": "",
+        "languages": [
+            "ObjC",
+            "Swift",
+            "Shell",
+            "ruby",
+            "Python"
+        ]
+    }, {
+        "time": "2017-01-01",
+        "name": "Contextual Menu",
+        "tags": [
+            "iOS",
+            "watchOS",
+            "tvOS"
+        ],
+        "description": "A UI Framework that provided APIs to construct contextual menus which contained app-global and view-specfic menu items",
+        "link": "Private",
+        "image": "",
+        "languages": [
+            "ObjC",
+            "Swift"
+        ]
+    }, {
+        "time": "2019-01-01",
+        "name": "Repository",
+        "tags": [
+            "iOS",
+            "watchOS",
+            "tvOS"
+        ],
+        "description": "Framework for fetching data on demand, it allows the consumer to easily track the states of the data. It does it by implementing the repository pattern in a reactive programming style(RxSwift). The repository mediates between the data access layer and the domain layer, providing abstractions of common data access facilities such as REST invocations and in-memory/disk caching.",
+        "link": "Private",
+        "image": "",
+        "languages": [
+            "Swift"
+        ]
+    }]
+}
