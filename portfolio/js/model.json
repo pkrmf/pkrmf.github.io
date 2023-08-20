@@ -9,7 +9,7 @@
         "link": "https://stackoverflow.com/users/1279233/iosaddicted",
         "font": "fa-stack-overflow"
     }],
-    "title": "Software Engineer (iOS)",
+    "title": "Senior Software Engineer",
     "email": "mterns@gmail.com",
     "location": {
         "city": "San Antonio",
@@ -37,10 +37,10 @@
         "name": "Apps/Software"
     }],
     "about": {
-        "description": "Software engineer at USAA, in my 5 years of experience I've been working on the following subjects:",
+        "description": "Senior Software engineer at Amazon, in my 10 years of experience I've been working on the following subjects:",
         "tags": [{
-            "name": "iOS",
-            "font": "fa-home"
+            "name": "Mobile",
+            "font": "fa-mobile"
         }, {
             "name": "CI & CD",
             "font": "fa-mobile"
@@ -48,7 +48,10 @@
             "name": "Developer tools",
             "font": "fa-link"
         }, {
-            "name": "REST Services",
+            "name": "AWS",
+            "font": "fa-plug"
+        }, {
+            "name": "AI (LLMs)",
             "font": "fa-plug"
         }]
     },
@@ -56,6 +59,8 @@
         "Swift",
         "ObjC",
         "ruby",
+        "c++",
+        "python",
         "JavaScript",
         "Shell"
     ],
@@ -68,9 +73,26 @@
         "iOS",
         "Scripting",
         "CI & CD",
-        "Dev tools"
+        "Dev tools",
+        "AWS",
+        "AI & LLMs"
     ],
-    "opensource": [{
+    "opensource": [
+        {
+            "name": "EchoVault",
+            "description": "A productivity-enhancing macOS app that captures, transcribes and archives your daily tasks and interactions. Harness the power of LLMs to review, analyze, and gain insights from your recorded content.",
+            "link": "https://github.com/pkrmf/EchoVault",
+            "stars": 1,
+            "dateBegin": "2023-08-01",
+            "dateEnd": "",
+            "languages": [
+                "Swift",
+                "C++",
+                "Python",
+                "ObjC"
+            ]
+        },
+        {
         "name": "flipper",
         "description": "A desktop debugging platform for mobile developers. I contributed on the iOS side, helping on getting it published to Cocoapods and building the shared preferences plugin on iOS. Currently working on the memory leak plugin on iOS",
         "link": "https://github.com/facebook/flipper",
